@@ -5,7 +5,8 @@ The following is a code that solves the Rubik 3x3x3 Cube by using A* algorithm. 
 The program enables to solve a Rubik's Cube given a certain amount of random initial movements. The program offers the possibility to render images of the different states of disassembly of the cube, as well as a 3D interactive animation of the disassembly and assembly of the Rubik Cube. The state codification of the cube can be checked at the repository of Miguel Hernando. The heuristics for the A* algorithm is based on the required number of movements to correctly position and orient all the cubies.
 
 <p align="center">
-  <img src="https://github.com/danisotelo/monza_simulator/blob/master/img/solver.png" alt="Image Description" width="100%">
+  <img src="https://github.com/danisotelo/Rubik_Solver/blob/master/img/GIF%201.gif" width="400" />
+  <img src="https://github.com/danisotelo/Rubik_Solver/blob/master/img/GIF%202.gif" width="400" />
 </p>
 
 ## Getting Started
